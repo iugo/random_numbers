@@ -1,9 +1,9 @@
 <?php
 	header("Content-type: text/html; charset=utf-8");
-	define('HOST', 'localhost');
-	define('USERNAME', 'root');
+	define('HOST', '');
+	define('USERNAME', '');
 	define('PASSWORD', '');
-	define('DATEBASE', 'abc');
+	define('DATEBASE', '');
 
 /* 数据库只有一个 list 表. 结构如下:
 	list
